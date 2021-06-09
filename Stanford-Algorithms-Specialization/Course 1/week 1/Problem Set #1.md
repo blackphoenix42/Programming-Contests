@@ -28,14 +28,14 @@
 
 5. Arrange the following functions in increasing order of growth rate (with `g(n)`) following `f(n)` in your list if and only if `f(n)=O(g(n))`.
 
-a)2<sup>log(n)</sup>  
-b)2<sup>2log(n)</sup>  
-c)n<sup>5/2</sup>  
-d)2<sup>n<sup>2</sup></sup>  
-e)n<sup>2 log(n)</sup>
+   a)2<sup>log(n)</sup>  
+   b)2<sup>2log(n)</sup>  
+   c)n<sup>5/2</sup>  
+   d)2<sup>n<sup>2</sup></sup>  
+   e)n<sup>2 log(n)</sup>
 
-Answer:
+   Answer:
 
-```
-aecbd
-```
+   ```
+   aecbd
+   ```
